@@ -58,7 +58,7 @@ jobs:
         host: 'windows'
         target: 'desktop'
         arch: 'win64_msvc2022_64'
-        modules: 'qtserialport qtconnectivity qtwebengine qt5compat qtshadertools qtgraphs'
+        modules: 'qtserialport qtconnectivity qtwebengine qt5compat qtshadertools qtgraphs qtquick3d'
         cache: true
 
     - name: 'Install CMake'
