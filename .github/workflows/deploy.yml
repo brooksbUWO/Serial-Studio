@@ -31,7 +31,7 @@ on:
 
 env:
   VERSION: "3.2.7"
-  EXECUTABLE: "Serial-Studio"
+  EXECUTABLE: "Serial-Studio-GPL3"
   APPLICATION: "Serial Studio"
   PUBLISHER: "Alex Spataru"
   DESCRIPTION: "Multi-purpose serial data visualization & processing program (GPL)"
